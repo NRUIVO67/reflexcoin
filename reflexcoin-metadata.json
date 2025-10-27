@@ -1,0 +1,35 @@
+{
+  "name": "ReflexCoin",
+  "symbol": "RFX",
+  "description": "O primeiro token emocional interativo da reflexão emocional global.",
+  "image": "https://raw.githubusercontent.com/NRUIVO67/reflexcoin/main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Token emocional"
+    },
+    {
+      "trait_type": "Rede",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Simbolismo",
+      "value": "Reflexão emocional global"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/NRUIVO67/reflexcoin/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FJWFCyQFFLwVZXbprYXwVEXzbwzNbHgsCFJXTJSD32KY",
+        "share": 100
+      }
+    ]
+  }
+}
